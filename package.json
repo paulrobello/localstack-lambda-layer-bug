@@ -1,0 +1,14 @@
+{
+  "name": "lambda_layer_bug",
+  "devDependencies": {
+    "@types/node": "^17.0.10",
+    "@types/uuid": "^8.3.4"
+  },
+  "dependencies": {
+    "@pulumi/aws": "^4.35.0",
+    "@pulumi/awsx": "^0.32.0",
+    "@pulumi/pulumi": "^3.22.1",
+    "@pulumi/random": "^4.3.1",
+    "dotenv": "^14.3.0"
+  }
+}

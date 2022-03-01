@@ -1,0 +1,6 @@
+name: lambda-layer-bug
+runtime:
+  name: nodejs
+  options:
+    nodeargs: "--trace-warnings"
+description: lambda layer bug test
